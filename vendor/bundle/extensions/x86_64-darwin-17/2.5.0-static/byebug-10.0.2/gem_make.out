@@ -1,0 +1,19 @@
+current directory: /Users/idohou/Desktop/invidev/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/idohou/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181111-88326-1uk4o5a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/idohou/Desktop/invidev/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/idohou/Desktop/invidev/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/idohou/Desktop/invidev/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20181111-88326-1lv4yde/byebug
